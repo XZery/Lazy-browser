@@ -2,6 +2,10 @@
 
 A minimalist, fast web browser built with Electron.
 
+![image](https://github.com/user-attachments/assets/9f2cbc4e-a7ab-4a5e-85f1-14e006f4c93c)
+![image](https://github.com/user-attachments/assets/82d25177-7cf5-46c4-975e-77e3a4b55bcb)
+
+
 ## Features
 
 - **Clean, Minimalist Interface**: Streamlined design focused on browsing experience
